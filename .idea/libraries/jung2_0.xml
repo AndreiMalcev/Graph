@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jung2.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jung2.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jung-api-2.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jung-graph-impl-2.0.1-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../jung2.0.1" recursive="false" />
+  </library>
+</component>
